@@ -12,9 +12,10 @@ b2 = [ 2.55464699 -1.47492613]  angstrom^-1
 b1 = [-2.55464699e+10 -1.47492613e+10]  m^-1
 b2 = [ 2.55464699e+10 -1.47492613e+10]  m^-1
 100
-E_field (should be in eV/A/C)
-Ex (0.0, 0.0) Ey (0.0, 0.0)
-E_field (should be in V/m)
+E_field below (should be in eV/A/C)
+Ex 0.0 Ey 0.0
+E_field below (should be in V/m)
+Ex 0.0 Ey 0.0  , |E| = 0.0
 expension parameter 0.0
 tau: 1e-14 (s)
 T : 300.0 (K)
@@ -42,9 +43,10 @@ field_magnitude_diagonal_0: N=100 -> sigma_xx=4.2628e-06
   band 7: sigma = [[4.503355e-230, -2.499500e-233], [-2.499500e-233, 4.325269e-230]]  trace = 8.828624e-230
   TOTAL : sigma = [[4.262757e-06, 8.538334e-09], [8.538334e-09, 3.208802e-06]]  trace = 7.471560e-06
 100
-E_field (should be in eV/A/C)
-Ex (1767766.7967068583, 1767766.7967068583) Ey (1767766.7967068583, 1767766.7967068583)
-E_field (should be in V/m)
+E_field below (should be in eV/A/C)
+Ex 1103353250317629.0 Ey 1103353250317629.0
+E_field below (should be in V/m)
+Ex 1767766.7967068583 Ey 1767766.7967068583  , |E| = 2499999.7790156812
 expension parameter 0.009343493984272153
 tau: 1e-14 (s)
 T : 300.0 (K)
@@ -72,9 +74,10 @@ field_magnitude_diagonal_2500000: N=100 -> sigma_xx=4.1291e-06
   band 7: sigma = [[4.506421e-230, -1.530394e-233], [-1.563395e-233, 4.327040e-230]]  trace = 8.833461e-230
   TOTAL : sigma = [[4.129092e-06, -2.180213e-08], [-1.584127e-08, 3.149974e-06]]  trace = 7.279066e-06
 100
-E_field (should be in eV/A/C)
-Ex (3535533.5934137166, 3535533.5934137166) Ey (3535533.5934137166, 3535533.5934137166)
-E_field (should be in V/m)
+E_field below (should be in eV/A/C)
+Ex 2206706500635258.0 Ey 2206706500635258.0
+E_field below (should be in V/m)
+Ex 3535533.5934137166 Ey 3535533.5934137166  , |E| = 4999999.5580313625
 expension parameter 0.018686987968544306
 tau: 1e-14 (s)
 T : 300.0 (K)
@@ -102,9 +105,10 @@ field_magnitude_diagonal_5000000: N=100 -> sigma_xx=3.2876e-06
   band 7: sigma = [[4.526171e-230, 5.047538e-233], [4.791294e-233, 4.339878e-230]]  trace = 8.866048e-230
   TOTAL : sigma = [[3.287640e-06, -2.141636e-07], [-1.706661e-07, 2.756417e-06]]  trace = 6.044057e-06
 100
-E_field (should be in eV/A/C)
-Ex (5303300.390120574, 5303300.390120574) Ey (5303300.390120574, 5303300.390120574)
-E_field (should be in V/m)
+E_field below (should be in eV/A/C)
+Ex 3310059750952887.0 Ey 3310059750952887.0
+E_field below (should be in V/m)
+Ex 5303300.390120574 Ey 5303300.390120574  , |E| = 7499999.337047042
 expension parameter 0.02803048195281646
 tau: 1e-14 (s)
 T : 300.0 (K)
@@ -132,9 +136,10 @@ field_magnitude_diagonal_7500000: N=100 -> sigma_xx=3.2462e-06
   band 7: sigma = [[4.530131e-230, 7.718509e-233], [7.373658e-233, 4.347929e-230]]  trace = 8.878060e-230
   TOTAL : sigma = [[3.246242e-06, -2.263668e-07], [-1.861428e-07, 2.649441e-06]]  trace = 5.895683e-06
 100
-E_field (should be in eV/A/C)
-Ex (7071067.186827433, 7071067.186827433) Ey (7071067.186827433, 7071067.186827433)
-E_field (should be in V/m)
+E_field below (should be in eV/A/C)
+Ex 4413413001270516.0 Ey 4413413001270516.0
+E_field below (should be in V/m)
+Ex 7071067.186827433 Ey 7071067.186827433  , |E| = 9999999.116062725
 expension parameter 0.03737397593708861
 tau: 1e-14 (s)
 T : 300.0 (K)
@@ -162,9 +167,10 @@ field_magnitude_diagonal_10000000: N=100 -> sigma_xx=2.5498e-06
   band 7: sigma = [[4.558825e-230, 2.153201e-232], [2.072171e-232, 4.382594e-230]]  trace = 8.941419e-230
   TOTAL : sigma = [[2.549796e-06, -3.855741e-07], [-3.371810e-07, 2.099314e-06]]  trace = 4.649109e-06
 100
-E_field (should be in eV/A/C)
-Ex (70710671.86827432, 70710671.86827432) Ey (70710671.86827432, 70710671.86827432)
-E_field (should be in V/m)
+E_field below (should be in eV/A/C)
+Ex 4.413413001270515e+16 Ey 4.413413001270515e+16
+E_field below (should be in V/m)
+Ex 70710671.86827432 Ey 70710671.86827432  , |E| = 99999991.16062722
 expension parameter 0.37373975937088605
 tau: 1e-14 (s)
 T : 300.0 (K)
@@ -192,9 +198,10 @@ field_magnitude_diagonal_1e+08: N=100 -> sigma_xx=5.3633e-07
   band 7: sigma = [[4.804339e-230, 3.616697e-231], [3.413808e-231, 6.677944e-230]]  trace = 1.148228e-229
   TOTAL : sigma = [[5.363293e-07, -2.508146e-07], [-8.482946e-07, 2.283251e-07]]  trace = 7.646544e-07
 100
-E_field (should be in eV/A/C)
-Ex (707106718.6827433, 707106718.6827433) Ey (707106718.6827433, 707106718.6827433)
-E_field (should be in V/m)
+E_field below (should be in eV/A/C)
+Ex 4.413413001270516e+17 Ey 4.413413001270516e+17
+E_field below (should be in V/m)
+Ex 707106718.6827433 Ey 707106718.6827433  , |E| = 999999911.6062723
 expension parameter 3.737397593708861
 tau: 1e-14 (s)
 T : 300.0 (K)
@@ -222,9 +229,10 @@ field_magnitude_diagonal_1e+09: N=100 -> sigma_xx=-5.7347e-08
   band 7: sigma = [[-1.827397e-230, 8.332023e-231], [8.329006e-231, 7.906186e-231]]  trace = -1.036778e-230
   TOTAL : sigma = [[-5.734699e-08, -2.491135e-08], [-1.002339e-07, -8.895841e-08]]  trace = -1.463054e-07
 100
-E_field (should be in eV/A/C)
-Ex (7.071067186827433e+99, 7.071067186827433e+99) Ey (7.071067186827433e+99, 7.071067186827433e+99)
-E_field (should be in V/m)
+E_field below (should be in eV/A/C)
+Ex 4.413413001270516e+108 Ey 4.413413001270516e+108
+E_field below (should be in V/m)
+Ex 7.071067186827433e+99 Ey 7.071067186827433e+99  , |E| = 9.999999116062723e+99
 expension parameter 3.7373975937088615e+91
 tau: 1e-14 (s)
 T : 300.0 (K)
