@@ -1,0 +1,253 @@
+[50, 100, 150, 200]
+4 grid size(s) available:
+
+  grid  50 x 50   ->  8 bands
+  grid 100 x 100  ->  8 bands
+  grid 150 x 150  ->  8 bands
+  grid 200 x 200  ->  8 bands
+[-2.55464699 -1.47492613]
+[ 2.55464699 -1.47492613]
+b1 = [-2.55464699 -1.47492613]  angstrom^-1
+b2 = [ 2.55464699 -1.47492613]  angstrom^-1
+b1 = [-2.55464699e+10 -1.47492613e+10]  m^-1
+b2 = [ 2.55464699e+10 -1.47492613e+10]  m^-1
+100
+E_field (should be in eV/A/C)
+Ex (0.0, 0.0) Ey (0.0, 0.0)
+E_field (should be in V/m)
+expension parameter 0.0
+tau: 1e-14 (s)
+T : 300.0 (K)
+mu : -3.91475 (eV)
+field_magnitude_diagonal_0: N=100 -> sigma_xx=4.2628e-06
+
+--- velocity stats [m/s] ---
+  band 0: max|v| = 1.0226e+06  mean|v| = 7.2812e+05  max vx = 1.0206e+06  max vy = 9.4834e+05
+  band 1: max|v| = 1.3743e+06  mean|v| = 9.7405e+05  max vx = 1.1910e+06  max vy = 1.3743e+06
+  band 2: max|v| = 1.3023e+06  mean|v| = 8.0364e+05  max vx = 1.1288e+06  max vy = 1.3023e+06
+  band 3: max|v| = 1.0427e+06  mean|v| = 7.5572e+05  max vx = 1.0427e+06  max vy = 9.0387e+05
+  band 4: max|v| = 1.5274e+06  mean|v| = 1.1420e+06  max vx = 1.5046e+06  max vy = 1.5245e+06
+  band 5: max|v| = 1.3653e+06  mean|v| = 8.5294e+05  max vx = 1.3653e+06  max vy = 1.1865e+06
+  band 6: max|v| = 1.7754e+06  mean|v| = 1.1781e+06  max vx = 1.7702e+06  max vy = 1.6696e+06
+  band 7: max|v| = 1.8273e+06  mean|v| = 1.1515e+06  max vx = 1.8266e+06  max vy = 1.5831e+06
+
+=== field_magnitude_diagonal_0 ===
+  band 0: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 1: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 2: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 3: sigma = [[2.117653e-06, 4.023640e-09], [4.023640e-09, 1.608250e-06]]  trace = 3.725902e-06
+  band 4: sigma = [[2.145105e-06, 4.514694e-09], [4.514694e-09, 1.600552e-06]]  trace = 3.745657e-06
+  band 5: sigma = [[1.567425e-178, 2.109172e-180], [2.109172e-180, 1.021450e-178]]  trace = 2.588875e-178
+  band 6: sigma = [[2.160946e-195, 2.529528e-197], [2.529528e-197, 3.235246e-195]]  trace = 5.396193e-195
+  band 7: sigma = [[4.503355e-230, -2.499500e-233], [-2.499500e-233, 4.325269e-230]]  trace = 8.828624e-230
+  TOTAL : sigma = [[4.262757e-06, 8.538334e-09], [8.538334e-09, 3.208802e-06]]  trace = 7.471560e-06
+100
+E_field (should be in eV/A/C)
+Ex (1767766.7967068583, 1767766.7967068583) Ey (1767766.7967068583, 1767766.7967068583)
+E_field (should be in V/m)
+expension parameter 0.009343493984272153
+tau: 1e-14 (s)
+T : 300.0 (K)
+mu : -3.91475 (eV)
+field_magnitude_diagonal_2500000: N=100 -> sigma_xx=4.1291e-06
+
+--- velocity stats [m/s] ---
+  band 0: max|v| = 1.0226e+06  mean|v| = 7.2812e+05  max vx = 1.0206e+06  max vy = 9.4834e+05
+  band 1: max|v| = 1.3743e+06  mean|v| = 9.7405e+05  max vx = 1.1910e+06  max vy = 1.3743e+06
+  band 2: max|v| = 1.3023e+06  mean|v| = 8.0364e+05  max vx = 1.1288e+06  max vy = 1.3023e+06
+  band 3: max|v| = 1.0427e+06  mean|v| = 7.5572e+05  max vx = 1.0427e+06  max vy = 9.0387e+05
+  band 4: max|v| = 1.5274e+06  mean|v| = 1.1420e+06  max vx = 1.5046e+06  max vy = 1.5245e+06
+  band 5: max|v| = 1.3653e+06  mean|v| = 8.5294e+05  max vx = 1.3653e+06  max vy = 1.1865e+06
+  band 6: max|v| = 1.7754e+06  mean|v| = 1.1781e+06  max vx = 1.7702e+06  max vy = 1.6696e+06
+  band 7: max|v| = 1.8273e+06  mean|v| = 1.1515e+06  max vx = 1.8266e+06  max vy = 1.5831e+06
+
+=== field_magnitude_diagonal_2500000 ===
+  band 0: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 1: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 2: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 3: sigma = [[2.051001e-06, -1.124829e-08], [-8.096227e-09, 1.578622e-06]]  trace = 3.629623e-06
+  band 4: sigma = [[2.078092e-06, -1.055384e-08], [-7.745040e-09, 1.571352e-06]]  trace = 3.649443e-06
+  band 5: sigma = [[1.564444e-178, 2.293903e-180], [2.269428e-180, 1.024973e-178]]  trace = 2.589418e-178
+  band 6: sigma = [[2.131070e-195, 3.159024e-197], [3.164935e-197, 3.185248e-195]]  trace = 5.316319e-195
+  band 7: sigma = [[4.506421e-230, -1.530394e-233], [-1.563395e-233, 4.327040e-230]]  trace = 8.833461e-230
+  TOTAL : sigma = [[4.129092e-06, -2.180213e-08], [-1.584127e-08, 3.149974e-06]]  trace = 7.279066e-06
+100
+E_field (should be in eV/A/C)
+Ex (3535533.5934137166, 3535533.5934137166) Ey (3535533.5934137166, 3535533.5934137166)
+E_field (should be in V/m)
+expension parameter 0.018686987968544306
+tau: 1e-14 (s)
+T : 300.0 (K)
+mu : -3.91475 (eV)
+field_magnitude_diagonal_5000000: N=100 -> sigma_xx=3.2876e-06
+
+--- velocity stats [m/s] ---
+  band 0: max|v| = 1.0226e+06  mean|v| = 7.2812e+05  max vx = 1.0206e+06  max vy = 9.4834e+05
+  band 1: max|v| = 1.3743e+06  mean|v| = 9.7405e+05  max vx = 1.1910e+06  max vy = 1.3743e+06
+  band 2: max|v| = 1.3023e+06  mean|v| = 8.0364e+05  max vx = 1.1288e+06  max vy = 1.3023e+06
+  band 3: max|v| = 1.0427e+06  mean|v| = 7.5572e+05  max vx = 1.0427e+06  max vy = 9.0387e+05
+  band 4: max|v| = 1.5274e+06  mean|v| = 1.1420e+06  max vx = 1.5046e+06  max vy = 1.5245e+06
+  band 5: max|v| = 1.3653e+06  mean|v| = 8.5294e+05  max vx = 1.3653e+06  max vy = 1.1865e+06
+  band 6: max|v| = 1.7754e+06  mean|v| = 1.1781e+06  max vx = 1.7702e+06  max vy = 1.6696e+06
+  band 7: max|v| = 1.8273e+06  mean|v| = 1.1515e+06  max vx = 1.8266e+06  max vy = 1.5831e+06
+
+=== field_magnitude_diagonal_5000000 ===
+  band 0: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 1: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 2: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 3: sigma = [[1.631426e-06, -1.080748e-07], [-8.505215e-08, 1.380415e-06]]  trace = 3.011842e-06
+  band 4: sigma = [[1.656213e-06, -1.060888e-07], [-8.561398e-08, 1.376002e-06]]  trace = 3.032215e-06
+  band 5: sigma = [[1.546230e-178, 3.490446e-180], [3.310574e-180, 1.049627e-178]]  trace = 2.595856e-178
+  band 6: sigma = [[1.942251e-195, 7.342484e-197], [6.428279e-197, 2.862641e-195]]  trace = 4.804891e-195
+  band 7: sigma = [[4.526171e-230, 5.047538e-233], [4.791294e-233, 4.339878e-230]]  trace = 8.866048e-230
+  TOTAL : sigma = [[3.287640e-06, -2.141636e-07], [-1.706661e-07, 2.756417e-06]]  trace = 6.044057e-06
+100
+E_field (should be in eV/A/C)
+Ex (5303300.390120574, 5303300.390120574) Ey (5303300.390120574, 5303300.390120574)
+E_field (should be in V/m)
+expension parameter 0.02803048195281646
+tau: 1e-14 (s)
+T : 300.0 (K)
+mu : -3.91475 (eV)
+field_magnitude_diagonal_7500000: N=100 -> sigma_xx=3.2462e-06
+
+--- velocity stats [m/s] ---
+  band 0: max|v| = 1.0226e+06  mean|v| = 7.2812e+05  max vx = 1.0206e+06  max vy = 9.4834e+05
+  band 1: max|v| = 1.3743e+06  mean|v| = 9.7405e+05  max vx = 1.1910e+06  max vy = 1.3743e+06
+  band 2: max|v| = 1.3023e+06  mean|v| = 8.0364e+05  max vx = 1.1288e+06  max vy = 1.3023e+06
+  band 3: max|v| = 1.0427e+06  mean|v| = 7.5572e+05  max vx = 1.0427e+06  max vy = 9.0387e+05
+  band 4: max|v| = 1.5274e+06  mean|v| = 1.1420e+06  max vx = 1.5046e+06  max vy = 1.5245e+06
+  band 5: max|v| = 1.3653e+06  mean|v| = 8.5294e+05  max vx = 1.3653e+06  max vy = 1.1865e+06
+  band 6: max|v| = 1.7754e+06  mean|v| = 1.1781e+06  max vx = 1.7702e+06  max vy = 1.6696e+06
+  band 7: max|v| = 1.8273e+06  mean|v| = 1.1515e+06  max vx = 1.8266e+06  max vy = 1.5831e+06
+
+=== field_magnitude_diagonal_7500000 ===
+  band 0: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 1: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 2: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 3: sigma = [[1.610828e-06, -1.142214e-07], [-9.268546e-08, 1.326536e-06]]  trace = 2.937364e-06
+  band 4: sigma = [[1.635413e-06, -1.121454e-07], [-9.345737e-08, 1.322906e-06]]  trace = 2.958319e-06
+  band 5: sigma = [[1.546557e-178, 3.681538e-180], [3.500457e-180, 1.060724e-178]]  trace = 2.607281e-178
+  band 6: sigma = [[1.932593e-195, 8.279661e-197], [3.644875e-197, 2.823122e-195]]  trace = 4.755715e-195
+  band 7: sigma = [[4.530131e-230, 7.718509e-233], [7.373658e-233, 4.347929e-230]]  trace = 8.878060e-230
+  TOTAL : sigma = [[3.246242e-06, -2.263668e-07], [-1.861428e-07, 2.649441e-06]]  trace = 5.895683e-06
+100
+E_field (should be in eV/A/C)
+Ex (7071067.186827433, 7071067.186827433) Ey (7071067.186827433, 7071067.186827433)
+E_field (should be in V/m)
+expension parameter 0.03737397593708861
+tau: 1e-14 (s)
+T : 300.0 (K)
+mu : -3.91475 (eV)
+field_magnitude_diagonal_10000000: N=100 -> sigma_xx=2.5498e-06
+
+--- velocity stats [m/s] ---
+  band 0: max|v| = 1.0226e+06  mean|v| = 7.2812e+05  max vx = 1.0206e+06  max vy = 9.4834e+05
+  band 1: max|v| = 1.3743e+06  mean|v| = 9.7405e+05  max vx = 1.1910e+06  max vy = 1.3743e+06
+  band 2: max|v| = 1.3023e+06  mean|v| = 8.0364e+05  max vx = 1.1288e+06  max vy = 1.3023e+06
+  band 3: max|v| = 1.0427e+06  mean|v| = 7.5572e+05  max vx = 1.0427e+06  max vy = 9.0387e+05
+  band 4: max|v| = 1.5274e+06  mean|v| = 1.1420e+06  max vx = 1.5046e+06  max vy = 1.5245e+06
+  band 5: max|v| = 1.3653e+06  mean|v| = 8.5294e+05  max vx = 1.3653e+06  max vy = 1.1865e+06
+  band 6: max|v| = 1.7754e+06  mean|v| = 1.1781e+06  max vx = 1.7702e+06  max vy = 1.6696e+06
+  band 7: max|v| = 1.8273e+06  mean|v| = 1.1515e+06  max vx = 1.8266e+06  max vy = 1.5831e+06
+
+=== field_magnitude_diagonal_10000000 ===
+  band 0: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 1: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 2: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 3: sigma = [[1.263645e-06, -1.943720e-07], [-1.675430e-07, 1.049460e-06]]  trace = 2.313106e-06
+  band 4: sigma = [[1.286150e-06, -1.912021e-07], [-1.696380e-07, 1.049854e-06]]  trace = 2.336004e-06
+  band 5: sigma = [[1.532055e-178, 5.001852e-180], [4.745430e-180, 1.108501e-178]]  trace = 2.640557e-178
+  band 6: sigma = [[1.782911e-195, 1.387832e-196], [-1.425355e-197, 2.511509e-195]]  trace = 4.294420e-195
+  band 7: sigma = [[4.558825e-230, 2.153201e-232], [2.072171e-232, 4.382594e-230]]  trace = 8.941419e-230
+  TOTAL : sigma = [[2.549796e-06, -3.855741e-07], [-3.371810e-07, 2.099314e-06]]  trace = 4.649109e-06
+100
+E_field (should be in eV/A/C)
+Ex (70710671.86827432, 70710671.86827432) Ey (70710671.86827432, 70710671.86827432)
+E_field (should be in V/m)
+expension parameter 0.37373975937088605
+tau: 1e-14 (s)
+T : 300.0 (K)
+mu : -3.91475 (eV)
+field_magnitude_diagonal_1e+08: N=100 -> sigma_xx=5.3633e-07
+
+--- velocity stats [m/s] ---
+  band 0: max|v| = 1.0226e+06  mean|v| = 7.2812e+05  max vx = 1.0206e+06  max vy = 9.4834e+05
+  band 1: max|v| = 1.3743e+06  mean|v| = 9.7405e+05  max vx = 1.1910e+06  max vy = 1.3743e+06
+  band 2: max|v| = 1.3023e+06  mean|v| = 8.0364e+05  max vx = 1.1288e+06  max vy = 1.3023e+06
+  band 3: max|v| = 1.0427e+06  mean|v| = 7.5572e+05  max vx = 1.0427e+06  max vy = 9.0387e+05
+  band 4: max|v| = 1.5274e+06  mean|v| = 1.1420e+06  max vx = 1.5046e+06  max vy = 1.5245e+06
+  band 5: max|v| = 1.3653e+06  mean|v| = 8.5294e+05  max vx = 1.3653e+06  max vy = 1.1865e+06
+  band 6: max|v| = 1.7754e+06  mean|v| = 1.1781e+06  max vx = 1.7702e+06  max vy = 1.6696e+06
+  band 7: max|v| = 1.8273e+06  mean|v| = 1.1515e+06  max vx = 1.8266e+06  max vy = 1.5831e+06
+
+=== field_magnitude_diagonal_1e+08 ===
+  band 0: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 1: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 2: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 3: sigma = [[2.523233e-07, -1.270854e-07], [-3.729252e-07, 1.049285e-07]]  trace = 3.572519e-07
+  band 4: sigma = [[2.840060e-07, -1.237292e-07], [-4.753694e-07, 1.233966e-07]]  trace = 4.074026e-07
+  band 5: sigma = [[-1.929799e-179, -7.213177e-179], [-6.375603e-179, 6.172937e-179]]  trace = 4.243138e-179
+  band 6: sigma = [[2.604729e-195, 2.495842e-196], [-1.920557e-196, 2.113406e-195]]  trace = 4.718134e-195
+  band 7: sigma = [[4.804339e-230, 3.616697e-231], [3.413808e-231, 6.677944e-230]]  trace = 1.148228e-229
+  TOTAL : sigma = [[5.363293e-07, -2.508146e-07], [-8.482946e-07, 2.283251e-07]]  trace = 7.646544e-07
+100
+E_field (should be in eV/A/C)
+Ex (707106718.6827433, 707106718.6827433) Ey (707106718.6827433, 707106718.6827433)
+E_field (should be in V/m)
+expension parameter 3.737397593708861
+tau: 1e-14 (s)
+T : 300.0 (K)
+mu : -3.91475 (eV)
+field_magnitude_diagonal_1e+09: N=100 -> sigma_xx=-5.7347e-08
+
+--- velocity stats [m/s] ---
+  band 0: max|v| = 1.0226e+06  mean|v| = 7.2812e+05  max vx = 1.0206e+06  max vy = 9.4834e+05
+  band 1: max|v| = 1.3743e+06  mean|v| = 9.7405e+05  max vx = 1.1910e+06  max vy = 1.3743e+06
+  band 2: max|v| = 1.3023e+06  mean|v| = 8.0364e+05  max vx = 1.1288e+06  max vy = 1.3023e+06
+  band 3: max|v| = 1.0427e+06  mean|v| = 7.5572e+05  max vx = 1.0427e+06  max vy = 9.0387e+05
+  band 4: max|v| = 1.5274e+06  mean|v| = 1.1420e+06  max vx = 1.5046e+06  max vy = 1.5245e+06
+  band 5: max|v| = 1.3653e+06  mean|v| = 8.5294e+05  max vx = 1.3653e+06  max vy = 1.1865e+06
+  band 6: max|v| = 1.7754e+06  mean|v| = 1.1781e+06  max vx = 1.7702e+06  max vy = 1.6696e+06
+  band 7: max|v| = 1.8273e+06  mean|v| = 1.1515e+06  max vx = 1.8266e+06  max vy = 1.5831e+06
+
+=== field_magnitude_diagonal_1e+09 ===
+  band 0: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 1: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 2: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 3: sigma = [[-1.107795e-07, -3.587207e-08], [-7.455315e-08, -7.905663e-08]]  trace = -1.898361e-07
+  band 4: sigma = [[5.343250e-08, 1.096072e-08], [-2.568078e-08, -9.901780e-09]]  trace = 4.353072e-08
+  band 5: sigma = [[3.560507e-179, 6.530492e-180], [5.363806e-180, 3.754224e-179]]  trace = 7.314732e-179
+  band 6: sigma = [[2.201333e-196, 4.118849e-196], [2.649717e-196, 6.156991e-196]]  trace = 8.358324e-196
+  band 7: sigma = [[-1.827397e-230, 8.332023e-231], [8.329006e-231, 7.906186e-231]]  trace = -1.036778e-230
+  TOTAL : sigma = [[-5.734699e-08, -2.491135e-08], [-1.002339e-07, -8.895841e-08]]  trace = -1.463054e-07
+100
+E_field (should be in eV/A/C)
+Ex (7.071067186827433e+99, 7.071067186827433e+99) Ey (7.071067186827433e+99, 7.071067186827433e+99)
+E_field (should be in V/m)
+expension parameter 3.7373975937088615e+91
+tau: 1e-14 (s)
+T : 300.0 (K)
+mu : -3.91475 (eV)
+field_magnitude_diagonal_1e+100: N=100 -> sigma_xx=-1.8526e-197
+
+--- velocity stats [m/s] ---
+  band 0: max|v| = 1.0226e+06  mean|v| = 7.2812e+05  max vx = 1.0206e+06  max vy = 9.4834e+05
+  band 1: max|v| = 1.3743e+06  mean|v| = 9.7405e+05  max vx = 1.1910e+06  max vy = 1.3743e+06
+  band 2: max|v| = 1.3023e+06  mean|v| = 8.0364e+05  max vx = 1.1288e+06  max vy = 1.3023e+06
+  band 3: max|v| = 1.0427e+06  mean|v| = 7.5572e+05  max vx = 1.0427e+06  max vy = 9.0387e+05
+  band 4: max|v| = 1.5274e+06  mean|v| = 1.1420e+06  max vx = 1.5046e+06  max vy = 1.5245e+06
+  band 5: max|v| = 1.3653e+06  mean|v| = 8.5294e+05  max vx = 1.3653e+06  max vy = 1.1865e+06
+  band 6: max|v| = 1.7754e+06  mean|v| = 1.1781e+06  max vx = 1.7702e+06  max vy = 1.6696e+06
+  band 7: max|v| = 1.8273e+06  mean|v| = 1.1515e+06  max vx = 1.8266e+06  max vy = 1.5831e+06
+
+=== field_magnitude_diagonal_1e+100 ===
+  band 0: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 1: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 2: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 3: sigma = [[0.000000e+00, 0.000000e+00], [0.000000e+00, 0.000000e+00]]  trace = 0.000000e+00
+  band 4: sigma = [[-1.852642e-197, -1.764642e-195], [-1.643971e-197, -1.102013e-196]]  trace = -1.287277e-196
+  band 5: sigma = [[3.201194e-203, -8.220701e-201], [1.287196e-203, 3.741879e-201]]  trace = 3.773891e-201
+  band 6: sigma = [[1.301708e-215, -6.837082e-212], [1.458302e-215, -2.788326e-211]]  trace = -2.788196e-211
+  band 7: sigma = [[-3.712231e-250, -6.057690e-249], [-7.391280e-250, 5.251144e-246]]  trace = 5.250773e-246
+  TOTAL : sigma = [[-1.852639e-197, -1.764650e-195], [-1.643970e-197, -1.101976e-196]]  trace = -1.287240e-196
